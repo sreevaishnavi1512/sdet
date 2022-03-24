@@ -11,5 +11,9 @@ public class addOrgTest {
  public void addFirstName() {
 	 System.out.println("addFirstName");
  }
+	@Test
+	public void modifyFirstName() {
+		System.out.println("modifyFirstName");
+	}
 
 }
