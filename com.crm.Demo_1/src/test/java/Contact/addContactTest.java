@@ -12,12 +12,6 @@ public class addContactTest {
 		public void addContact2() {
 			System.out.println("addContact");
 			
-			
-			
-	
-		
-		
-		
-		
+
 	}
 }
