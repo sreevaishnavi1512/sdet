@@ -6,5 +6,8 @@ public class addNameTest {
 	@Test
  public void addAdminName() {
 	 System.out.println("addAdminName");
+	 
+	 
+	 
  }
 }
