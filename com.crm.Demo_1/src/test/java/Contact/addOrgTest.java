@@ -6,6 +6,10 @@ public class addOrgTest {
 	@Test
 	public void addOrg() {
 		System.out.println("addOrg");
+		
+		
+		
+		
 	}
 	@Test
  public void addFirstName() {
